@@ -1,0 +1,38 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Campaign Manager Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Campaign Manager Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Candidate Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "64",
+          "name": "Candidate Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "id": "65",
+          "name": "Captain Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        }
+      ]
+    }
+  }
+}
